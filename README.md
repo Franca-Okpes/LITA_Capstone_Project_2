@@ -28,7 +28,7 @@ This project analyzes customer data for a subscription service to uncover behavi
 - Data Sources
 The primary source of Data used here is a DataSale.xlsx which is an open source Data that can be freely downleaded from an open source online such as Kaggleor FRED or any other Data repository site.
 
--Tools Used
+- Tools Used
 The tools used in analysing the Dataset from the retail shop are
 
 - Microsoft Excel [Download Here](https://www.microsoft.com)

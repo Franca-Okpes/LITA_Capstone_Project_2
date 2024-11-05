@@ -106,5 +106,17 @@ ORDER BY cancellations DESC;
 
 
 Data Visualization
+---
+
+![Customer seg report](https://github.com/user-attachments/assets/f52f0614-673c-4f58-b2a8-98fa37fb5500)
+
+
+![Canceled by reg,year](https://github.com/user-attachments/assets/335caeb9-c52c-4251-b263-35d646b6274d)
+
+
+![Customer retention](https://github.com/user-attachments/assets/812b8f88-a3bb-483a-847e-6fc13bc4c759)
+
+
+
 
 

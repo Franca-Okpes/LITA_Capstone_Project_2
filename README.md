@@ -52,9 +52,10 @@ The tools used in analysing the Dataset from the retail shop are
 ### Data Cleaning and Preparations
 
 In the initial phase of Data cleaning and preparation, I performed the following action;
-1.Data Importation and Inspection
-2.Handling missing variables
-3.Data Cleaning and Formatting
+
+1. Data Importation and Inspection
+2. Handling missing variables
+3. Data Cleaning and Formatting
 
 - Exploratory Data Analysis (EDA)
   Exploratory Data Analysis (EDA) helps uncover insights by addressing key questions such as:
